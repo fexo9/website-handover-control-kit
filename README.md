@@ -23,8 +23,8 @@ A complete kit for small business owners who hire web designers, freelancers, or
 
 ## Buy
 
-- **Getly:** https://www.getly.store *(product page link goes live at publish)*
-- **SellApp:** https://digitaltoolkitstore.sell.app *(product page link goes live at publish)*
+- **Getly:** https://www.getly.store/product/website-handover-control-kit-own-your-domain-hosting-admin-access
+- **SellApp:** https://digitaltoolkitstore.sell.app/product/website-handover-control-kit
 
 $19 · Commercial license · 30% affiliate program available
 
